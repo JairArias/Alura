@@ -11,6 +11,7 @@
   --fuente-montserrat: "Montserrat", sans-serif;
   --fuente-krona: "Krona One", sans-serif;
 }
+
 * {
   padding: 0;
   margin: 0;
@@ -40,11 +41,10 @@ body {
 }
 
 .presentacion {
-  padding: 4% 15%;
+  padding: 5% 15%;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 82px;
 }
 
 .presentacion_contenido {
@@ -95,7 +95,7 @@ body {
   border: 2px solid var(--color-terciario);
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 16px;
 }
 
 .presentacion_enlace_link:hover {
