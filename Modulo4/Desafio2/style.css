@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+  color: red;
+}
+
+h1{
+  font-size: 6ch;
+  text-align: center;
+}
+h2{
+  font-size: 5ch;
+}
+p{
+  font-size: 3ch;
+}
+ol{
+  font-size:4ch;
+}
+li{
+  font-size:3ch;
+}
+a{
+  color: red;
+  font-size: 4ch
+}
+footer{
+  font-size: 3ch;
+  text-align: center;
+}

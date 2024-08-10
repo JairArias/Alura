@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Variables*/
+:root {
+  --color-primario: #021526;
+  --color-secundario: #03346e;
+  --color-fondo: #6eacda;
+  --color-hover: #e2e2b6;
+}
+body {
+  background: var(--color-primario);
+  font-family: georgia;
+  color: var(--color-secundario);
+  font-size: 1.2rem;
+  line-height: 1.5em;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2.3rem;
+  line-height: 1.2em;
+}
+p {
+  margin-bottom: 1.5em;
+}
+
+.container {
+  width: 85%;
+  max-width: 850px;
+  margin: 0 auto;
+}
+.logo-nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigator ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navigator ul li {
+  display: inline-block;
+}
+
+.navigator ul li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  transition: all 0.5s linear;
+  border-radius: 5px;
+}
+.navigator ul li a:hover {
+  background: var(--color-hover);
+}
+.header {
+  background: var(--color-fondo);
+  color: var(--color-primario);
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+
+.header a {
+  color: var(--color-primario);
+  text-decoration: none;
+}
+
+.logo-nav-container {
+  flex-wrap: wrap;
+}
+.main {
+  padding: 8rem;
+}
+.footer {
+  background-color: var(--color-fondo);
+  color: var(--color-secundario);
+  text-align: center;
+  font-weight: 400;
+  padding: 24px;
+  font-size: 24px;
+}
+@media only screen and (max-width: 767px) {
+  .menu-icon {
+    display: block;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+  }
+  .navigator {
+    width: 100%;
+    margin-top: 1rem;
+  }
+  .navigator ul {
+    display: none;
+  }
+  .navigator ul.show {
+    display: block;
+  }
+  .navigator ul li {
+    display: block;
+  }
+  .navigator ul li a {
+    display: block;
+    padding: 0.5rem 0;
+    transition: all 0.5s linear;
+    border-radius: 5px;
+  }
+  .navigator ul li a:hover {
+    background: var(--color-hover);
+  }
+}
+
