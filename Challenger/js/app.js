@@ -76,4 +76,3 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelector(".body__main__section__btns__btn2").addEventListener('click', desencriptar);
   document.querySelector(".body__main__section__btns__btn3").addEventListener('click', copiarTexto);
 });
-
