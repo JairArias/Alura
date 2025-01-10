@@ -1,0 +1,23 @@
+/*Punto 1*/
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.texto-destacado {
+  color: grey;
+}
+
+p {
+  color: black;
+}
+/*Punto2*/
+.titulo-blog {
+  color: darkred;
+}
+
+/*Punto3*/
+.urgente{
+  color: red;
+}
