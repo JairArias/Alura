@@ -12,7 +12,7 @@
 	<artifactId>literalura</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>literalura</name>
-	<description>Este es el primer challenge de spring boot correspondiente al curso de alura backend</description>
+	<description>Challenge de spring boot de alura backend</description>
 	<url/>
 	<licenses>
 		<license/>
