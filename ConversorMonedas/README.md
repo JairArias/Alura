@@ -1,8 +1,8 @@
 # Conversor de monedas
-A continuación, se presenta el código fuente del conversor de monedas (desafío backend de alura). Esta guía contiene una explicación sobre el funcionamiento del programa, configuración y aspectos relevantes del código en general.
+Challenger converso de monedas de Alura
 
 ## Índice
-- [Tecnologías usadas](#tecnologias_usadas)
+- [Tecnologías](#tecnologias_usadas)
 - [Configuración](#configuracion)
 - [Paso a paso](#paso_paso)
 - [Conclusión](#conclusion)
@@ -17,15 +17,7 @@ La lista de tecnologías usadas dentro del proyecto se muestran a continuación:
 
 ## Configuración
 ***
-Antes de explicar el proceso de configuración del programa, es importante entender por qué se usa maven y lombok como parte del desarrollo del proyecto.
-
-- **Maven:** Es un gestor de dependencias y librerias que facilita La configuración de un proyecto a través de xml, facilitando el proceso de compilación de un software y su despliegue. Las dependencias y librerias se encuentran en el [repositorio maven](https://mvnrepository.com/).
-- **Lombok:** Es una libreria de java que facilita y automatiza la generación de código para clases, como: getters, setters, constructores, entre otros; mediante anotaciones de clase, atributo y método. Con esta libreria se evita el uso de código boilerplate (repetitivo), garantizando simplicidad y fácil lectura de código.
-
-Dado lo anterior, se procede con la explicación sobre la configuración del proyecto:
-**Nota:** Es imperativo tener previamente un proyecto creado con maven desde el IDE respectivo.
-
-### Configuración del archivo pom.xml (Instalación de dependencias y librerias)
+Configuracion
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
