@@ -1,4 +1,4 @@
-package com.alejandro.literalura.Entities.Models;
+package com.arias.literalura.Entities.Models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

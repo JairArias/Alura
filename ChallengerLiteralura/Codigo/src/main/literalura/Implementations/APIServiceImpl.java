@@ -1,8 +1,8 @@
-package com.alejandro.literalura.Implementations;
+package com.arias.literalura.Implementations;
 
-import com.alejandro.literalura.Exceptions.HttpRequestException;
-import com.alejandro.literalura.Exceptions.ParseJsonException;
-import com.alejandro.literalura.Services.APIService;
+import com.arias.literalura.Exceptions.HttpRequestException;
+import com.arias.literalura.Exceptions.ParseJsonException;
+import com.arias.literalura.Services.APIService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

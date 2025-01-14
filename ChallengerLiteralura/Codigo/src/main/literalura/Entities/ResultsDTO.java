@@ -1,4 +1,4 @@
-package com.alejandro.literalura.Entities;
+package com.arias.literalura.Entities;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

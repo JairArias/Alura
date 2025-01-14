@@ -1,4 +1,4 @@
-package com.alejandro.literalura.Mappers;
+package com.arias.literalura.Mappers;
 
 import org.mapstruct.InjectionStrategy;
 import org.mapstruct.Mapper;

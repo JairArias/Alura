@@ -1,13 +1,13 @@
 package com.alejandro.literalura;
 
-import com.alejandro.literalura.Entities.AutorDTO;
-import com.alejandro.literalura.Entities.BookDTO;
-import com.alejandro.literalura.Entities.Models.Author;
-import com.alejandro.literalura.Entities.ResultsDTO;
-import com.alejandro.literalura.Implementations.AppMenu;
-import com.alejandro.literalura.Implementations.LogicService;
-import com.alejandro.literalura.Mappers.JsonMapper;
-import com.alejandro.literalura.Services.APIService;
+import com.arias.literalura.Entities.AutorDTO;
+import com.arias.literalura.Entities.BookDTO;
+import com.arias.literalura.Entities.Models.Author;
+import com.arias.literalura.Entities.ResultsDTO;
+import com.arias.literalura.Implementations.AppMenu;
+import com.arias.literalura.Implementations.LogicService;
+import com.arias.literalura.Mappers.JsonMapper;
+import com.arias.literalura.Services.APIService;
 import com.fasterxml.jackson.databind.JsonNode;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Qualifier;

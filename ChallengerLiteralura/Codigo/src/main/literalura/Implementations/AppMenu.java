@@ -1,11 +1,11 @@
-package com.alejandro.literalura.Implementations;
+package com.arias.literalura.Implementations;
 
-import com.alejandro.literalura.Mappers.AutorMapper;
-import com.alejandro.literalura.Mappers.BookMapper;
-import com.alejandro.literalura.Mappers.JsonMapper;
-import com.alejandro.literalura.Repositories.AutorRepository;
-import com.alejandro.literalura.Repositories.BookRepository;
-import com.alejandro.literalura.Services.APIService;
+import com.arias.literalura.Mappers.AutorMapper;
+import com.arias.literalura.Mappers.BookMapper;
+import com.arias.literalura.Mappers.JsonMapper;
+import com.arias.literalura.Repositories.AutorRepository;
+import com.arias.literalura.Repositories.BookRepository;
+import com.arias.literalura.Services.APIService;
 
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.SuperBuilder;

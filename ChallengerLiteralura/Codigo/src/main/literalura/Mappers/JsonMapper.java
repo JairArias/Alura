@@ -1,6 +1,6 @@
-package com.alejandro.literalura.Mappers;
+package com.arias.literalura.Mappers;
 
-import com.alejandro.literalura.Exceptions.ParseJsonException;
+import com.arias.literalura.Exceptions.ParseJsonException;
 
 public interface JsonMapper {
 

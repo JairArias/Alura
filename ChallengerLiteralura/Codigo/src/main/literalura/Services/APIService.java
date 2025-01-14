@@ -1,8 +1,8 @@
-package com.alejandro.literalura.Services;
+package com.arias.literalura.Services;
 
 
-import com.alejandro.literalura.Exceptions.HttpRequestException;
-import com.alejandro.literalura.Exceptions.ParseJsonException;
+import com.arias.literalura.Exceptions.HttpRequestException;
+import com.arias.literalura.Exceptions.ParseJsonException;
 
 import java.io.IOException;
 

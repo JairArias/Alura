@@ -1,7 +1,7 @@
-package com.alejandro.literalura.Implementations;
+package com.arias.literalura.Implementations;
 
-import com.alejandro.literalura.Exceptions.ParseJsonException;
-import com.alejandro.literalura.Mappers.JsonMapper;
+import com.arias.literalura.Exceptions.ParseJsonException;
+import com.arias.literalura.Mappers.JsonMapper;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;

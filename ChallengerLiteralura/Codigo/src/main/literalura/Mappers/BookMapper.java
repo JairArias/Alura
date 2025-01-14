@@ -1,7 +1,7 @@
-package com.alejandro.literalura.Mappers;
+package com.arias.literalura.Mappers;
 
-import com.alejandro.literalura.Entities.BookDTO;
-import com.alejandro.literalura.Entities.Models.Books;
+import com.arias.literalura.Entities.BookDTO;
+import com.arias.literalura.Entities.Models.Books;
 import org.mapstruct.InjectionStrategy;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

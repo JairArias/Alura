@@ -1,4 +1,4 @@
-package com.alejandro.literalura.Exceptions;
+package com.arias.literalura.Exceptions;
 
 public class ParseJsonException extends Exception {
     public ParseJsonException(String message) {

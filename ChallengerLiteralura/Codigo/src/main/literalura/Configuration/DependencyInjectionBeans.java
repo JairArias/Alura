@@ -1,6 +1,6 @@
-package com.alejandro.literalura.Configuration;
+package com.arias.literalura.Configuration;
 
-import com.alejandro.literalura.Implementations.AppMenu;
+import com.arias.literalura.Implementations.AppMenu;
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.DeserializationFeature;

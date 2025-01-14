@@ -1,6 +1,6 @@
-package com.alejandro.literalura.Repositories;
+package com.arias.literalura.Repositories;
 
-import com.alejandro.literalura.Entities.Models.Books;
+import com.arias.literalura.Entities.Models.Books;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
