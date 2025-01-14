@@ -1,0 +1,15 @@
+Services/Ejecutar.class
+org/arias/Main.class
+Entities/MonedaDTO.class
+Settings/Configuracion.class
+Implementations/ConfiguracionImpl.class
+Services/ConfiguracionService.class
+Implementations/ApiExchangeImpl.class
+Exceptions/EntradaDeDatosInvalidaException.class
+Services/Historial.class
+Implementations/HistorialImpl.class
+Implementations/EjecutarImpl.class
+Exceptions/ParseJsonException.class
+Services/ApiExchange.class
+Entities/Monedas.class
+Exceptions/LecturaDeArchivoException.class

@@ -1,0 +1,15 @@
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Entities/MonedaDTO.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Entities/Monedas.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Exceptions/EntradaDeDatosInvalidaException.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Exceptions/LecturaDeArchivoException.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Exceptions/ParseJsonException.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Implementations/ApiExchangeImpl.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Implementations/ConfiguracionImpl.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Implementations/EjecutarImpl.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Implementations/HistorialImpl.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Services/ApiExchange.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Services/ConfiguracionService.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Services/Ejecutar.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Services/Historial.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/Settings/Configuracion.java
+/home/john/Documents/Alura/Introduccion/ConversorMonedas/Conversor/src/main/java/org/arias/Main.java
