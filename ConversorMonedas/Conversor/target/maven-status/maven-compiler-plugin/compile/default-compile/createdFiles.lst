@@ -1,5 +1,4 @@
 Services/Ejecutar.class
-org/arias/Main.class
 Entities/MonedaDTO.class
 Settings/Configuracion.class
 Implementations/ConfiguracionImpl.class

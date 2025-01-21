@@ -8,7 +8,7 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>alejandro</groupId>
+	<groupId>arias</groupId>
 	<artifactId>foro-hub</artifactId>
 	<version>1.0.0</version>
 	<name>foro-hub</name>
